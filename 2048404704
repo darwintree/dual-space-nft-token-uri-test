@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "StartDate",
-            "value": "2023-04-01"
+            "value": "April-01-2023"
         },
         {
             "trait_type": "EndDate",
-            "value": "2023-06-30"
+            "value": "June-30-2023"
         }
     ]
 }
