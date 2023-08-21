@@ -1,5 +1,5 @@
 {
-    "image": "https://raw.githubusercontent.com/darwintree/dual-space-nft-token-uri-test/main/normal.png",
+    "image": "https://raw.githubusercontent.com/darwintree/dual-space-nft-token-uri-test/main/2023_april_normal.png",
     "animation_url": "",
     "description": "You made at least one contribution to the Conflux Documentation. Thanks a lot for your contribution to support the development of Conflux infrastructures!",
     "external_link": "",
@@ -11,11 +11,15 @@
         },
         {
             "trait_type": "Level",
-            "value": "Outstanding"
+            "value": "Normal"
         },
         {
-            "trait_type": "Time",
-            "value": "2023-06"
+            "trait_type": "StartDate",
+            "value": "2023-04-01"
+        },
+        {
+            "trait_type": "EndDate",
+            "value": "2023-06-30"
         }
     ]
 }
